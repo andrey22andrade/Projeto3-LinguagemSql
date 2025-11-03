@@ -75,6 +75,19 @@ Demonstrar na prática os principais comandos SQL utilizados por um **DBA Júnio
 1. Abrir o **SQL Server Management Studio (SSMS)**
 2. Conectar ao SQL Server
 3. Executar os scripts na **ordem numérica**
+
+- [01_linguagem_sql.sql](scripts/01_linguagem_sql.sql)
+- [02_tabelas_indices.sql](scripts/02_tabelas_indices.sql)
+- [03_group_by.sql](scripts/03_group_by.sql)
+- [04_join.sql](scripts/04_join.sql)
+- [05_select_basico.sql](scripts/05_select_basico.sql)
+- [06_tipos_data_hora.sql](scripts/06_tipos_data_hora.sql)
+- [07_tipos_numerico.sql](scripts/07_tipos_numerico.sql)
+- [08_tipos_string.sql](scripts/08_tipos_string.sql)
+- [09_atualizacao.sql](scripts/09_atualizacao.sql)
+- [10_transacao_blocking.sql](scripts/10_transacao_blocking.sql)
+- [11_objetos_programacao.sql](scripts/11_objetos_programacao.sql)
+
 4. Validar com consultas `SELECT` e no Object Explorer
 
 ---
